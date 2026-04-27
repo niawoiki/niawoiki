@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/2ikawxu)
+[![知乎](https://img.shields.io/badge/知乎-niawoiki-yello)](https://www.zhihu.com/people/2ikawxu)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://youtube.com/@nikl-gz8tm?si=-B3F9Jzn5lmTEQXZ)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
