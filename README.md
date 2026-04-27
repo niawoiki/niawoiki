@@ -14,4 +14,4 @@
 
 ![头像](头像.jpg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=niawoiki-red
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=niawoiki世界の一番芸術家だ
